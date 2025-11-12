@@ -23,7 +23,7 @@ struct History: View {
                             .foregroundColor(Color(hex: "#39523A"))
                             .padding(.leading, 14 * scaleFactor)
 
-                        // Caretaker Card
+                        // Caretaker Card hhhh
                         HStack(alignment: .center, spacing: 20 * scaleFactor) {
                             // Profile Image
                             Image("Rectangle 5634") // Replace with your asset name
